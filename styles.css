@@ -1,0 +1,162 @@
+body {
+  font-family:Montserrat;
+}
+
+
+
+
+h1 { font-family: 'Montserrat', sans-serif;  font-size: 3.5rem;  line-height: 1.5;  font-weight: 900;}
+#title {
+  background-color: #ff4c68;
+}
+.container-fluid{
+  padding: 3% 15%;
+}
+.cachorro1 {
+  transform: rotate(25deg);
+  width: 60%;
+  position: relative;
+top: 70px;
+  
+
+}
+.a {
+  padding-bottom: 0;
+}
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+.navbar-brand {
+  font-family: Ubuntu;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.navbar {
+  padding-bottom: 4.5rem;
+ padding-left: 0;
+ padding-right: 0; }
+ 
+.nav-item {
+  padding: 0 18px;
+}
+.nav-link {
+  font-size: 1.2rem;
+  font-family: Monserrat-Light;
+}
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+#features {
+  padding: 7% 15%;
+  background-color: white;
+  position: relative;
+  z-index: 1;
+  bottom: 150px;
+}
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+p {
+  color: #8f8f8f;
+}
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;;
+}
+.icon:hover {
+  color: #ff4c68;
+}
+#testimonials {
+ 
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  font-size: 1.5;
+}
+
+
+
+
+.h1 {
+  font-family: 'Montserrat', sans-serif;  
+  color: #fff;
+  padding-bottom: 1%;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+  width: 100%;
+}
+.press-class {
+  width: 15%;
+  padding: 20px 20px 50px;
+}
+.carousel-item {
+  padding: 7% 15%;
+}
+ .marcas {
+  font-size: 150%;
+  padding: 8px;
+ }
+ #footer {
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 50px;
+ }
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+.pricing-column {
+  padding: 3% 2%;
+}
+.teste {
+  margin-top:  40px;
+}
+
+.j {
+padding: 0.7%;
+margin-top: 40px;
+margin: 15px;
+}
+
+#cta {
+  text-align: center;
+  background-color: #ff4c68;
+  padding-top: 170px;
+  padding-bottom: 170px;
+}
+.copyright {
+  padding: 20px;
+}
+
+@media (max-width: 1028px) {
+.cachorro1 {
+  position: static;
+  transform: rotate(0deg);
+ 
+}
+#title {
+  text-align: center;
+}
+.press-class {
+  position: static;
+  width: 30%;
+}
+}
